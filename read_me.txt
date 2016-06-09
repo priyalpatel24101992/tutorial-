@@ -13,4 +13,8 @@ git tutorial
 -- first   file get saved on working directory by command "add"
 -- second  then u have to add file on repository by command... git commit -m "u can write a comand here"
 
-3)
+3)to see ststus - git status 
+	 THIS will show u all modified and deleted files 
+4) if u want to see and compare ur code that u just have changed and the one which is already stored on repository.
+    git diff
+5) 
